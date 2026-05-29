@@ -1,17 +1,24 @@
-# Hi, I'm Surya 👋
+# Hi, I'm Surya M N 👋
 
-## Data Analyst Fresher
+📊 Aspiring Data Analyst
 
-Skills:
-- Python
+## Skills
 - SQL
-- Power BI
 - Excel
-- Data Visualization
+- Power BI
+- Tableau
+- Python
 
-Projects:
-- Uber Ride Data Analysis
+## Projects
 - Retail Sales Performance Analysis
+- Uber Ride Data Analysis
+- Data Visualization Dashboards
 
-LinkedIn:
-https://linkedin.com/in/surya-m-n 
+## Currently Learning
+- Advanced SQL
+- Power BI
+- Data Analytics
+
+## Connect With Me
+LinkedIn: https://linkedin.com/in/surya-m-n
+GitHub: https://github.com/surya1233-co
