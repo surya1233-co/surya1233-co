@@ -1,6 +1,6 @@
 # Hi, I'm Surya M N 👋
 
-📊 Aspiring Data Analyst
+📊Data Analyst
 
 ## Skills
 - SQL
